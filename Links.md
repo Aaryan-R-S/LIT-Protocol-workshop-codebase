@@ -1,0 +1,5 @@
+- Wallets demo - https://lit-pkp-auth-demo.vercel.app/
+- Lit Faucet - https://faucet.litprotocol.com/
+- Lit PKP Exlporer - https://explorer.litprotocol.com/profile
+- Relay Server API Key Request form - https://docs.google.com/forms/d/e/1FAIpQLSeVraHsp1evK_9j-8LpUBiEJWFn4G5VKjOWBmHFjxFRJZJdrg/viewform
+- 
